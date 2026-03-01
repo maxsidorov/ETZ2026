@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\sidor\OneDrive\Документы\!vsosh\Electronic\ETZ\1,5mm_35um_2layers_std.PcbDoc
-Date     : 28.02.2026
-Time     : 16:20:06
+Date     : 01.03.2026
+Time     : 14:32:49
 
 Processing Rule : Clearance Constraint (Gap=0.2mm) (NOT (OnTopLayer Or OnBottomLayer)),(All)
 Rule Violations :0
